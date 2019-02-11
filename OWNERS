@@ -1,4 +1,6 @@
 approvers:
 - jenkins-x-bot-test
+- agentgonzo
 reviewers:
 - jenkins-x-bot-test
+- agentgonzo

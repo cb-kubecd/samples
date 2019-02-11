@@ -9,7 +9,7 @@ pipeline {
     ORG            = 'interdiscount'
     APP_NAME        = 'inventory-service'
     // jenkins
-    CONTAINER_ID      = 'maven-java11'
+    CONTAINER_ID      = 'maven'
     // helm
     CHARTMUSEUM_CREDS    = credentials('jenkins-x-chartmuseum')
     CHART_FOLDER      = "./charts"
